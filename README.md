@@ -66,4 +66,4 @@ Example Code Snippet
 
 ## Support
 
-For any questions or issues, please open an issue on the GitHub repository.
+For any questions or issues, please open an issue on the GitHub repository, or drop us a message: contact_us@optibayeslab.com
